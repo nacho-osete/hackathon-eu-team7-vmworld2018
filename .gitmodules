@@ -1,0 +1,6 @@
+[submodule "kube-of-life"]
+	path = kube-of-life
+	url = https://github.com/pdellaert/kube-of-life
+[submodule "fe-kube-for-life"]
+	path = fe-kube-for-life
+	url = https://github.com/linoproject/fe-kube-for-life
