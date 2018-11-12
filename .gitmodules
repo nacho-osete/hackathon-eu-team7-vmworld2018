@@ -4,3 +4,6 @@
 [submodule "fe-kube-for-life"]
 	path = fe-kube-for-life
 	url = https://github.com/linoproject/fe-kube-for-life
+[submodule "PyGameofLife"]
+	path = PyGameofLife
+	url = https://github.com/robertmartin8/PyGameofLife
