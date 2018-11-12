@@ -11,15 +11,15 @@ Technologies involved:
 
 Thanks to all the team for an incredible project!
 
-@pdellaert - backend dev
-@linotelera - frontend dev
-@frode_garnes - wavefront dev
-@kkrisdal - wavefront dev
-@itsvmme - presentation & hardware dev
-@larstr - hardware dev
-@const_ivan - scripting & monitoring
-@ivnruizruiz - scripting & monitoring
-@ignosgt - team leader
+- @pdellaert - backend dev
+- @linotelera - frontend dev
+- @frode_garnes - wavefront dev
+- @kkrisdal - wavefront dev
+- @itsvmme - presentation & hardware dev
+- @larstr - hardware dev
+- @const_ivan - scripting & monitoring
+- @ivnruizruiz - scripting & monitoring
+- @ignosgt - team leader
 
 You can watch our project's presentation there:
 https://www.youtube.com/watch?v=Ycwq6vOhP6w
