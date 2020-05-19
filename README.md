@@ -22,7 +22,7 @@ Thanks to all the team for an incredible project!
 - @ignosgt - team leader
 
 Here's our Powerpoint Presentation:
-https://github.com/sushiman/hackathon-eu-team7-vmworld2018/blob/master/doc/TEAM7-CodeQuest.pptx
+https://github.com/nacho-osete/hackathon-eu-team7-vmworld2018/blob/master/doc/TEAM7-CodeQuest.pptx
 
 You can watch our project's presentation there:
 https://www.youtube.com/watch?v=Ycwq6vOhP6w
